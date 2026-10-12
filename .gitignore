@@ -1,0 +1,8 @@
+
+node_modules/
+**/node_modules/
+frontend/dist/
+backend/findit.db
+backend/findit.db-shm
+backend/findit.db-wal
+.env
